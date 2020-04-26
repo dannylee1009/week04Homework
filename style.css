@@ -1,0 +1,23 @@
+.timer{
+    font-family:'Roboto', serif;
+    text-align: right;
+    margin: 20px
+}
+.question{
+    font-family:'Roboto', serif;
+    text-align: center;
+
+}
+.answer-box{
+
+    font-family:'Roboto', serif;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+  
+
+}
+.answerbutton{
+    margin: 20px 0px;
+}
